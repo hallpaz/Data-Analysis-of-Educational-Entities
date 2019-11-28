@@ -42,8 +42,17 @@
 
 ## A Rede da Educação
 
-1. Esta 
-2. O que os dados dizem sobre?
+1. Mídia tem anunciado expansões e aquisições em grandes grupos educacionais.
+2. O que os dados dizem sobre isso?
+
+### Construção da Rede
+
+1. 1ª tentativa com a rede completa de educação gerou um grafo muito grande
+2. Filtragem apenas sobre a "educação formal"
+3. Construção do grafo direcionado "É sócio de"
+4. Grafo de
+
+=> 3ª Desafio: empresas podem ser sócias de empresas (mascarar?)
 
 ## Descobertas
 
